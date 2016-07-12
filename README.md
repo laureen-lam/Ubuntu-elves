@@ -1,2 +1,2 @@
 # Ubuntu-elves
-Some files to make Ubuntu run better
+Helpful "house-keeping" tools for Ubuntu -- let these helpful house elves do the work for you!
